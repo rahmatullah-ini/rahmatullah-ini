@@ -1,4 +1,4 @@
-# Hi there, I'm [Rahmatullah] 👋
+# Hi there, I'm Rahmatullah 👋
 
 ## 🚀 About Me
 I'm a **Full-stack Developer** passionate about building scalable and efficient web applications. I love turning complex problems into simple, beautiful solutions through clean code.
